@@ -1,0 +1,15 @@
+========== LOGIN MASSEH ==========
+.card__description
+~ Rahasia Hati (Lyric by Spotify) ~
+~ Rahasia Hati (Lyric by Spotify) ~
+~ Rahasia Hati (Lyric by Spotify) ~
+
+.card__title
+Andai matamu....
+melihat aku....
+Terungkap semua isi hatiku....
+
+.card__button
+Terjemahkan Lirik
+Terjemahkan Lirik
+Terjemahkan Lirik
