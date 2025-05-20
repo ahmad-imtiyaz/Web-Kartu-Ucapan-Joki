@@ -12,4 +12,4 @@ Terungkap semua isi hatiku....
 .card__button
 Terjemahkan Lirik
 Terjemahkan Lirik
-Terjemahkan Lirik
+Terjemahkan Lirik.
